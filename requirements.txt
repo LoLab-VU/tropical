@@ -13,5 +13,5 @@ pysb>=1.11
 pytest>=6.2
 scikit-learn>=0.24
 scipy>=1.5
-sympy==1.5
+sympy==1.8
 tqdm>=4.56

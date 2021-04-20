@@ -73,7 +73,7 @@ else:
                               include_dirs=py_inc)]
 
 install_requires = ['pysb', 'matplotlib', 'anytree', 'scikit-learn', 'pydot', 'tqdm',
-                    'editdistance', 'pandas', 'networkx', 'numpy', 'sympy==1.5']
+                    'editdistance', 'pandas', 'networkx', 'numpy', 'sympy==1.8']
 
 this_directory = os.path.abspath(os.path.dirname(__file__))
 with open(os.path.join(this_directory, 'README.md'), 'r') as f:
