@@ -1,7 +1,7 @@
 anytree>=2.8
 cython>=0.29
 editdistance>=0.5
-h5py==3.1
+h5py==3.2.1
 hdbscan>=0.8
 matplotlib>=3.3
 networkx>=2.5
